@@ -7,3 +7,7 @@
 + python06_파일
 + python07_함수
 + python08_matplot
+
+## 깃허브의 소스를 코랩 환경에서 자신의 구글 드라이브에 복사하려면 코랩 코드 셀에서 다음 코드를 입력
++ 구글 드라이브 경로는 자신의 구글 드라이브경로를 입력
+!git clone https://github.com/cybermin/2021_PNUAC_AIData.git 구글드라이브경로/2021_PNUAC_AIData
